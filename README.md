@@ -1,6 +1,6 @@
-# Pesquisa cognitiva em doducmentos com AZURE AI
+# Pesquisa cognitiva em documentos com AZURE AI
 
-Até o momento uma das possibilidades mais complexas, porém através de um passo a passo bem delineados é bastante tranquilo de se realizar alguns testes.
+Até o momento uma das possibilidades mais complexas, porém através de um passo a passo bem delineado é bastante tranquilo de se realizar alguns testes com esta modalidade.
 
 Maiores informações em: <https://aka.ms/ai900-ai-search>
 
